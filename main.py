@@ -27,6 +27,7 @@ class Person:
 person1 = Person("John", 30, "Male")
 person2 = Person("Jane", 25, "Female")
 person3 = Person("Anna", 15, "Female")
+person4 = Person ("Roma", 35, "Male")
 
 print(person1.get_name())        # John
 print(person2.get_age())         # 25
